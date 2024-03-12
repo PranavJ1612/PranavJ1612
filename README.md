@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Jagdale</h1>
 <h3 align="center">A passionate Full Stack Developer & Tech-Enthusiastic from India</h3>
 
-- 🔭 I’m currently working on **Loco Shed Management**
+- 🔭 I’m currently working as **Front End Developer**
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
