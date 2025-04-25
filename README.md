@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Jagdale</h1>
 <h3 align="center">A passionate Full Stack Developer & Tech-Enthusiastic from India</h3>
 
-- 🔭 I’m currently working as **Front End Developer**
-
-- 🌱 I’m currently learning **data structures and algorithms**
-
+- 🔭 I’m **Front End Developer**, **Python Programmer** & **Automation Tester**
 - 📫 How to reach me **pranavjagdale161202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
